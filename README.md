@@ -1,4 +1,4 @@
-# Odometer for M5StickC Plus in Arduino
+# Odometer and speedometer for M5StickC Plus in Arduino
 # Holds 3 values: km/h, total distance (ODO) and trip distance (TRIP)
 # Odo and Trip can be reset to 0 with button B
 # Button A switches between screens
